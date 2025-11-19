@@ -28,11 +28,6 @@ splay, LEDs, Taster, Piezo.
 Schematische Ansicht
 [ABT-Messgeret (2).pdf](https://github.com/user-attachments/files/23635479/ABT-Messgeret.2.pdf)
 
-# Tinkercad-Projekt
-
-Hier deinen Link einfügen
-https://your-tinkercad-link-here
-
-Hinweis
+# Hinweis
 
 Schulprojekt. Code und Texte eigenständig erstellt; KI nur für Debugging & Erklärungen genutzt.
