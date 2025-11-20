@@ -58,8 +58,7 @@
 //
 // Copyright by Tom
 //
-// Schulprojekt RBG 9a 
-// rbg-g.de
+// Schulprojekt RBG
 //
 // Verwendet: Arduino UNO, L2C, 
 //            3 LED's, Taster,
