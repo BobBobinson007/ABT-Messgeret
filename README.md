@@ -1,5 +1,7 @@
 # ABT-Messgerät (Arduino Battery Tester)
 
+![](ino.png)
+
 Ein Arduino-basiertes Messgerät zur automatischen Erkennung und Messung von Batterien. Es erkennt selbstständig, ob eine 1,5-V- oder 3-V-Batterie angeschlossen ist, zeigt die Spannung auf dem Display an und warnt bei Überhitzung über 40 °C.
 
 # Funktionen
